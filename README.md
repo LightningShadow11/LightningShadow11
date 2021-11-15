@@ -17,6 +17,11 @@
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+[website]: https://kunalpal1010.wixsite.com/shadow
+[twitter]: https://twitter.com/KunalPal_
+[youtube]: https://www.youtube.com/channel/UCHb0bjR-dbdg8GyMbQSgprw?view_as=subscriber
+[instagram]: https://www.instagram.com/kunal.pal1010/
+[linkedin]: https://www.linkedin.com/in/kunal-pal-2b1ba7161/
 
 ### Languages and Tools:
 
@@ -29,8 +34,3 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-[website]: https://kunalpal1010.wixsite.com/shadow
-[twitter]: https://twitter.com/KunalPal_
-[youtube]: https://www.youtube.com/channel/UCHb0bjR-dbdg8GyMbQSgprw?view_as=subscriber
-[instagram]: https://www.instagram.com/kunal.pal1010/
-[linkedin]: https://www.linkedin.com/in/kunal-pal-2b1ba7161/
