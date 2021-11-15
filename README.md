@@ -18,12 +18,7 @@
 - ⚡ Fun fact: I love to play Video Games🎮  
   
 
-<br/>  
-
-<div align="center">
-<img src="![giphy (1)](https://user-images.githubusercontent.com/58516428/141798680-c4cb22ef-5c34-4539-804b-84619ec943ef.gif)
-" align="center" style="width: 100%" />
-</div>  
+<br/>    
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
