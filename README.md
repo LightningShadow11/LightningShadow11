@@ -19,7 +19,6 @@
   
 
 <br/>  
-![giphy](https://user-images.githubusercontent.com/58516428/141798090-2fb8f2b5-c434-4fe4-960f-7e3c2d224a08.gif)
 
 
 ## My Skill Set  
@@ -111,3 +110,5 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![giphy](https://user-images.githubusercontent.com/58516428/141798247-c82be2ec-2977-4f91-9955-ee7104d61a36.gif)
+
