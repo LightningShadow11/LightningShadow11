@@ -109,6 +109,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-![giphy](https://user-images.githubusercontent.com/58516428/141798247-c82be2ec-2977-4f91-9955-ee7104d61a36.gif)
 
